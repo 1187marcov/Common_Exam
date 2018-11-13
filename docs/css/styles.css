@@ -1,0 +1,85 @@
+#wrapper {
+    width: 960px;
+    background-color: white;
+    margin-right: auto;
+    margin-left: auto;
+}
+.displayInline {
+    display: inline;
+}
+#banner {
+    width: 960px;
+    height: 540px;
+}
+.floatRight{
+    float: right;
+}
+.floatLeft {
+    float: left;
+}
+.clearFloat {
+    clear: both;
+}
+.textAlignRight {
+    text-align: right;
+}
+.textAlignCenter {
+    text-align: center;
+}
+#adventureTxt{
+    background-color: black;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    float: left;
+    font-size: 3em;
+    width: 480px;
+    height: 554px;
+    opacity: 0.5;
+}
+#headingpicture{
+    float: left;
+    border: black 1px solid;
+    padding: 10px 10px 60px;
+    background-size: contain;
+    width: 295px;
+    height: 235px;
+}
+#menu li {
+    display: inline;
+}
+.bordering{
+    border: black solid 1px;
+}
+.mediumTxt{
+    font-size: 30px;
+    font-family: Calibri, serif, bold;
+}
+.smallTxt{
+    font-family: Calibri, serif;
+}
+#context{
+    margin-top: 20px;
+}
+.headingTxt {
+    font-size: 40px;
+    font-family: Calibri, serif, bold;
+    padding-left: 380px;
+    padding-bottom: 30px;
+}
+.contentTxt {
+    font-family: Calibri, serif;
+    padding-left: 430px;
+}
+#table{
+    padding-left: 200px;
+}
+#footer{
+    background-color: black;
+    padding: 30px;
+}
+.textAlignLeft{
+    text-align: left;
+}
+.topMargin{
+    margin-top: 200px;
+}
